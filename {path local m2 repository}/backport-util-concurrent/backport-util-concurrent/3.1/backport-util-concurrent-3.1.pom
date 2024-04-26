@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>backport-util-concurrent</groupId>
+  <artifactId>backport-util-concurrent</artifactId>
+  <version>3.1</version>
+  <description>Auto generated POM</description>
+</project>

@@ -1,0 +1,28 @@
+root:
+  tealium:
+    account: true
+    profile: true
+    event: true
+    trace_id: false
+  page:
+    name: true
+    url: true
+    params: false
+    previous: false
+    section_type: false
+    seo_type: false
+    event: false
+    push: false
+    click: false
+    region: false
+  user:
+    ermes_visitor_id: false
+    visitor_id: false
+    correlation_id: false
+    emails:
+      hidden: false
+      strong: false
+      stronger: false
+    visitor_type: true
+    kioui_type: false
+
